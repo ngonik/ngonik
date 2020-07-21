@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I'm a freelance analytics consultant and engineer :)
+I work as a data engineer :)
 
 I help your organization extract, develop, and deliver information for strategic decision making.
+
+How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/nicolasgonik/)
 
 <!--
 **ngonik/ngonik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
