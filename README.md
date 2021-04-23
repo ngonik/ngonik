@@ -17,5 +17,4 @@
 
 ### I am Nicolás Gonik
 - Data Engineer & Open Source enthusiast.
-- Currently studying for the AWS Solutions Architect certification
 - I can help your organization extract, develop, and deliver information for strategic decision making. Contact me!
